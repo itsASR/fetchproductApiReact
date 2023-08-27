@@ -5,7 +5,7 @@
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 body{
-    background: linear-gradient(rgba(49, 247, 197, 0.8), rgba(226, 113, 38, 0.5), rgba(0,0,200,0.3));
+    background: linear-gradient(rgba(38, 221, 175, 0.8), rgba(226, 113, 38, 0.5), rgba(0,0,200,0.3));
     height: 100vh;
 }
 #root{
