@@ -1,13 +1,14 @@
 import React from 'react'
 import ReactDOM from 'react-dom/client'
 // import App from './App.jsx'
-import './index.css'
+// import './index.css'
+import './captchass.css'
 // import Inputstake from './Inputstake.jsx'
-import App from './slider/App'
+// import App from './slider/App'
+import Createcaptcha from './Createcaptcha'
+import { StrictMode } from 'react'
 
 ReactDOM.createRoot(document.getElementById('root')).render(
-  <React.StrictMode>
-    <App />
-    {/* <Inputstake></Inputstake> */}
-  </React.StrictMode>,
+    <Createcaptcha></Createcaptcha>
+  
 )
