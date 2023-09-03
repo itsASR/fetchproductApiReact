@@ -37,8 +37,7 @@ function Createcaptcha() {
         setvalues(e.target.value)
         
       }
-    //   hello
-    // comment
+
 
   return (
     <>
